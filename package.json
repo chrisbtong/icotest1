@@ -1,0 +1,26 @@
+{
+  "name": "icotest1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sawTokenICO.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisbtong/icotest1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisbtong/icotest1/issues"
+  },
+  "homepage": "https://github.com/chrisbtong/icotest1#readme",
+  "dependencies": {
+    "zeppelin-solidity": "1.6.0"
+  }
+}
